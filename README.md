@@ -1,8 +1,8 @@
 ## Hey, I'm José Meurer!
 
 <div>
-  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5"/>
+  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true" timeout="10000"/>
+  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5" timeout="10000"/>
 </div>
   
 <div style="display: inline_block">
