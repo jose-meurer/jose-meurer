@@ -1,12 +1,16 @@
 ## Hey, I'm José Meurer!
 
 <div>
-  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true" timeout="10000"/>
-  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5" timeout="10000"/>
+  <a target="_blank" href=https://jose-meurer.github.io"> 
+  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true"/>
+  </a>
+  <a target="_blank" href="https://jose-meurer.github.io">
+  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5"/>
+  </a>
 </div>
-  
-<div style="display: inline_block">
+
   <br />
+<div style="display: inline_block">
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -22,6 +26,7 @@
   ##
    
 <div>
-  <a href="https://www.linkedin.com/in/jose-meurer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   
-  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jose-meurer/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
