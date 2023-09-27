@@ -1,15 +1,16 @@
 ## Hey, I'm José Meurer!
 
 <div>
-  <a target="_blank" href="https://jose-meurer.github.io/"> 
+  <a href="https://jose-meurer.github.io/"> 
   <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true"/>
   </a>
-  <a target="_blank" href="https://jose-meurer.github.io/">
+  <a href="https://jose-meurer.github.io/">
   <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5"/>
   </a>
 </div>
 
-  <br />
+<br />
+
 <div style="display: inline_block">
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -23,8 +24,8 @@
   <img align="center" alt="linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
-  ##
-   
+##
+
 <div>
   <a href="https://www.linkedin.com/in/jose-meurer/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
