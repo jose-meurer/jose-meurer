@@ -5,12 +5,12 @@
   
 <!--  <img height="150em" align="center" src="https://github-readme-stats-jose-meurer.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5/> -->
 
-[![joseMeurer GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true")](https://github.com/jose-meurer/) [![joseMeurer GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5)](https://github.com/jose-meurer/)
+<!-- [![joseMeurer GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-meurer&show_icons=true&theme=calm_pink&include_all_commits=false&count_private=true")](https://github.com/jose-meurer/) -->
+[![joseMeurer GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-meurer&layout=compact&langs_count=7&theme=calm_pink&size_weight=0.5&count_weight=0.5)](https://github.com/jose-meurer/)
 
 </div>
 
 <br />
-
 <div style="display: inline_block">
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
