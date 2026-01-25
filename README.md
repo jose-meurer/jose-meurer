@@ -23,10 +23,16 @@ Espero que gostem do meu trabalho!
   <img align="center" alt="github" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="html" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="postgresql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
