@@ -1,7 +1,7 @@
 ## Olá,
 
 ```
-Sou desenvolvedor Back-end com foco em Java e Spring, atualmente vivendo em Joinville.
+Sou desenvolvedor Back-end com foco em C# .NET & Java Spring.
 Tenho uma paixão por desafios e acredito no aprendizado contínuo como motor para crescimento pessoal e profissional.
 Meu objetivo é deixar uma marca positiva em tudo o que crio ou contribuo, sempre buscando fazer a diferença.
 Espero que gostem do meu trabalho!
