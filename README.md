@@ -36,7 +36,6 @@ Sou um Desenvolvedor Full Stack C#/.NET com forte atuação em backend, focado n
 **🔧 Infraestrutura & Ferramentas** <br>
 <img align="center" alt="Logo do Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 <img align="center" alt="Logo do Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="center" alt="Logo do GitHub" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 <img align="center" alt="Logo do Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <br><br>
 
