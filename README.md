@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&width=600&lines=Desenvolvedor+Full+Stack;Foco+em+Back-end+.NET+e+Java;Performance+e+Integrações;)](https://git.io/typing-svg)
 
-Sou um Desenvolvedor Full Stack C#/.NET com forte atuação em backend, focado na construção e otimização de integrações. Minha paixão está no motor das aplicações: garanto que os sistemas suportem cargas pesadas, projetando soluções eficientes e mantendo integrações robustas com sistemas externos.
+Sou um Desenvolvedor Full Stack C#/.NET com forte atuação em backend, focado na construção e otimização de integrações.
 
 ### 👨‍💻 Sobre mim
-* 🏗️ Possuo vivência em arquiteturas multi-tenant e integração, como Microsoft Graph, ERPs (NetSuite) e ferramentas de monitoramento (Zabbix, Rapid7).
+* 🏗️ Possuo vivência em arquiteturas multi-tenant e integração, e ferramentas de monitoramento (Zabbix, Rapid7).
 * 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia da Computação.
-* ☁️ Constantemente aprimorando minhas habilidades, atualmente com foco nos estudos em serviços Cloud para a certificação **Microsoft AZ-900 & AZ-204**.
+* ☁️ Constantemente aprimorando minhas habilidades, atualmente com foco nos estudos em serviços Cloud para a certificação **Microsoft AZ-900 & AI-200**.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -40,7 +40,7 @@ Sou um Desenvolvedor Full Stack C#/.NET com forte atuação em backend, focado n
 <br><br>
 
 ### 🚀 Projetos em Destaque
-* **[Social Media API REST](#)** - *Uma API robusta desenvolvida com Java 21, Spring Boot 3.4.1 e MongoDB, focada em boas práticas e performance.*
+* **[Fipe Search](https://github.com/jose-meurer/fipe-search-redis)** - *Uma API robusta desenvolvida com Java 25, Spring Boot 4.0.6, PostgreSQL e Redis, focada em boas práticas e performance.*
 
 ---
 
